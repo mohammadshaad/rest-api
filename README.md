@@ -2,7 +2,7 @@
 
 ## How to use it?
 
-Clone the repository
+Clone the repository  
 1. git clone --depth 1 https://github.com/mohammadshaad/rest-api.git  
 
 Install all the dependencies  
