@@ -12,4 +12,4 @@ Install all the dependencies
 Start the server with nodemon  
 3. nodemon server.js
 
-## Make the 'GET' and 'POST' request on '/items' route
+## Make the 'GET' and 'POST' request on '/api/items' route
